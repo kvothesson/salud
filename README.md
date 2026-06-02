@@ -1,6 +1,6 @@
 # salud
 
-Plugin de Claude Code — sistema de salud argentino navegable.
+Compatible con **Claude Code** y **OpenAI Codex** — sistema de salud argentino navegable.
 
 ## Que hace
 
@@ -10,6 +10,16 @@ Plugin de Claude Code — sistema de salud argentino navegable.
 
 ```bash
 claude --plugin-dir /ruta/a/salud
+```
+
+### OpenAI Codex
+
+No requiere instalación. Codex lee `AGENTS.md` automáticamente al abrirse en este directorio.
+
+```bash
+git clone https://github.com/kvothesson/salud ~/salud
+cd ~/salud
+codex
 ```
 
 ## Comandos y ejemplos
