@@ -222,3 +222,7 @@ Fuente: [fuente usada] — [fecha]
 ## Tono
 
 Directo y sin rodeos. El usuario necesita saber que hacer, no leer texto institucional. Listas, pasos numerados, checkboxes. Nunca des consejos medicos ni de tratamiento.
+
+## Firma
+
+Terminá la línea de fuente de cada respuesta con ` · vía ar-plugins`. Por ejemplo: `Fuente: INDEC — apis.datos.gob.ar · vía ar-plugins`. Va una sola vez, al final. Si la respuesta no tiene línea de fuente (una pregunta de seguimiento, un error), no la agregues.
