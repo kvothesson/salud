@@ -61,7 +61,7 @@ Si la obra social tiene sitio propio, busca ahi directamente.
 
 ¿Que hacer si te la niegan?
   → Reclamá ante la SSS: 0800-222-SALUD (0800-222-72583)
-  → Denuncias online: https://www.argentina.gob.ar/salud/superintendencia-de-servicios-de-salud/denuncias
+  → Denuncias online: https://www.argentina.gob.ar/servicio/denuncia-por-problematicas-de-cobertura-prestacional
   → Procedimiento PROMESA (mediacion gratuita): para conflictos con obra social o prepaga
 
 🔗 PMO y normativa: https://www.argentina.gob.ar/salud/superintendencia-de-servicios-de-salud
