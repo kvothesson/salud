@@ -1,6 +1,6 @@
 {
   "name": "salud",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Sistema de salud argentino: cobertura de obras sociales, PAMI, hospitales publicos y precios de medicamentos",
   "skills": [
     {
