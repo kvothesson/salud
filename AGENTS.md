@@ -183,7 +183,6 @@ WebFetch: `https://www.argentina.gob.ar/buscador-de-precios-de-medicamentos`
 
 Si no carga, alternativas:
 - WebSearch: `[nombre medicamento] precio Argentina [mes actual] [año actual]`
-- `https://arg.kairosweb.com/` — base de datos de precios de farmacias
 - `https://www.alfabeta.net/precio/` — precio sugerido al publico
 
 **Paso 2 — Generico:**
@@ -210,7 +209,6 @@ Cobertura:
 Necesitas receta: Si / No
 
 🔗 Precios oficiales: https://www.argentina.gob.ar/buscador-de-precios-de-medicamentos
-🔗 Kairos: https://arg.kairosweb.com
 Fuente: [fuente usada] — [fecha]
 ```
 
