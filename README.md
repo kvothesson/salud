@@ -96,8 +96,7 @@ Cobertura:
 Necesitas receta: No (venta libre hasta 400mg, con receta para dosis mayores)
 
 🔗 Precios oficiales: https://www.argentina.gob.ar/buscador-de-precios-de-medicamentos
-🔗 Kairos: https://arg.kairosweb.com
-Fuente: argentina.gob.ar / kairosweb.com — may 2026
+Fuente: argentina.gob.ar / alfabeta.net — may 2026
 ```
 
 ---
@@ -130,7 +129,6 @@ Fuente: Ministerio de Salud CABA — may 2026
 - **Superintendencia de Servicios de Salud (SSS):** [argentina.gob.ar/salud/superintendencia-de-servicios-de-salud](https://www.argentina.gob.ar/salud/superintendencia-de-servicios-de-salud)
 - **PAMI:** [pami.org.ar](https://www.pami.org.ar)
 - **Precios de medicamentos:** [argentina.gob.ar/buscador-de-precios-de-medicamentos](https://www.argentina.gob.ar/buscador-de-precios-de-medicamentos)
-- **Kairos:** [arg.kairosweb.com](https://arg.kairosweb.com)
 - **Alfabeta:** [alfabeta.net](https://www.alfabeta.net/precio/)
 
 Los datos son de fuentes publicas y oficiales. Este plugin no almacena ni transmite informacion del usuario. Precios y coberturas se consultan en tiempo real.
