@@ -1,11 +1,12 @@
 {
   "name": "salud",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Sistema de salud argentino: cobertura de obras sociales, PAMI, hospitales publicos y precios de medicamentos",
-  "skills": [
-    {
-      "name": "salud",
-      "path": "skills/salud/SKILL.md"
-    }
-  ]
+  "author": {
+    "name": "Kvothesson",
+    "url": "https://github.com/kvothesson"
+  },
+  "homepage": "https://github.com/kvothesson/salud",
+  "repository": "https://github.com/kvothesson/salud",
+  "license": "MIT"
 }
